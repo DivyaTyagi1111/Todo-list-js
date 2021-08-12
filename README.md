@@ -3,5 +3,9 @@
 * This is the basic todo list made using HTML, CSS and Javascript !!
 * Here's the video you may see !!
 
-https://user-images.githubusercontent.com/31409044/129184226-11dd7cf1-4ab1-4745-8db7-9729ae94e4d9.mov
+
+
+https://user-images.githubusercontent.com/31409044/129184478-77fb5792-7657-401c-acc3-a604c1d95498.mov
+
+
 
